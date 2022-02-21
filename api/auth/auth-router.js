@@ -1,6 +1,8 @@
 // Require `checkUsernameFree`, `checkUsernameExists` and `checkPasswordLength`
 // middleware functions from `auth-middleware.js`. You will need them here!
 
+//start here!
+
 
 /**
   1 [POST] /api/auth/register { "username": "sue", "password": "1234" }
